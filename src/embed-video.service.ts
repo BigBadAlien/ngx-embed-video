@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
+import { Http } from '@angular/http';
 import { DomSanitizer } from '@angular/platform-browser';
 import 'rxjs/add/operator/toPromise';
 import 'rxjs/add/operator/map';
